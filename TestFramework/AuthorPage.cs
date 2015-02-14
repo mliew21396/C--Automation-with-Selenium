@@ -10,7 +10,7 @@ namespace TestFramework
 {
     public class AuthorPage
     {
-        [FindsBy(How = How.CssSelector, Using = "h1#mf234.small-text-center.ng-binding")]
+        [FindsBy(How = How.CssSelector, Using = "h1.small-text-center.ng-binding")]
         private IWebElement authorName;
         public string AuthorName
         {
