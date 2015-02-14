@@ -1,4 +1,4 @@
-# C--Automation-with-Selenium
+# C#--Automation-with-Selenium
 =========================
 
 This project is exporing unit tests in C# with the popular web browser automation tool selenium.
