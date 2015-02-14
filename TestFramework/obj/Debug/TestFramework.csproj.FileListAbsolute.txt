@@ -1,0 +1,9 @@
+C:\Temp\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+C:\Temp\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\Temp\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+C:\Temp\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+C:\Temp\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+C:\Temp\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+C:\Temp\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+C:\Temp\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\Temp\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
